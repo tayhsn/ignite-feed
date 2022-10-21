@@ -2,8 +2,6 @@
 
 > Aplicação que simula as postagens e comentários de um blog.
 
-## 📲 [Link do deploy](https://dt-money-weld.vercel.app/)
-
 ## 📑 Sobre o projeto
 
 Esta é uma aplicação que simula as postagens e comentários de um blog desenvolvida no módulo "Fundamentos de ReactJS" do curso de especialização Ignite.
